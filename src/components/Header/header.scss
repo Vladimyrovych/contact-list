@@ -1,0 +1,30 @@
+@import "../../mixins.scss";
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  @include mobile {
+    flex-direction: column-reverse;
+  }
+  &__hello {
+    font-weight: 900;
+    font-size: 32px;
+    @include tablet {
+      margin-right: 40px;
+    }
+  }
+  &__logout {
+    @include mobile {
+      margin-bottom: 30px;
+      text-align: right;
+    }
+  }
+  &__logout-btn {
+    background: transparent;
+    border: none;
+    font-weight: 900;
+    font-size: 32px;
+    cursor: pointer;
+    outline: transparent;
+  }
+}

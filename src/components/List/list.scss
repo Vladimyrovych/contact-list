@@ -1,0 +1,23 @@
+@import "../../mixins.scss";
+
+.list {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  &__list-item {
+    margin-bottom: 35px;
+    margin-right: 35px;
+    @include laptop {
+      margin-bottom: 20px;
+      margin-right: 20px;
+      width: calc(100% / 3 - 14px);
+    }
+    @include mobile {
+      width: 100%;
+      margin-right: initial;
+    }
+    &:nth-child(3n) {
+      margin-right: 0;
+    }
+  }
+}

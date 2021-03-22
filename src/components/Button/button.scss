@@ -1,0 +1,26 @@
+.btn {
+  cursor: pointer;
+  height: 48px;
+  border: none;
+  outline: transparent;
+  color: white;
+  background-color: #06c668;
+  border-radius: 6px;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 0 20px;
+  &.btn-secondary {
+    background-color: black;
+    color: white;
+  }
+  &.btn-cancel {
+    border: 2px solid #d30000;
+    background: transparent;
+    color: #d30000;
+  }
+}
+
+.btn-ico {
+  height: 18px;
+  width: 18px;
+}
