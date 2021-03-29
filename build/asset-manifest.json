@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/contact-list/static/css/main.4a504b19.chunk.css",
-    "main.js": "/contact-list/static/js/main.8555546f.chunk.js",
-    "main.js.map": "/contact-list/static/js/main.8555546f.chunk.js.map",
-    "runtime-main.js": "/contact-list/static/js/runtime-main.1df016b3.js",
-    "runtime-main.js.map": "/contact-list/static/js/runtime-main.1df016b3.js.map",
-    "static/js/2.5687de70.chunk.js": "/contact-list/static/js/2.5687de70.chunk.js",
-    "static/js/2.5687de70.chunk.js.map": "/contact-list/static/js/2.5687de70.chunk.js.map",
-    "index.html": "/contact-list/index.html",
-    "static/css/main.4a504b19.chunk.css.map": "/contact-list/static/css/main.4a504b19.chunk.css.map",
-    "static/js/2.5687de70.chunk.js.LICENSE.txt": "/contact-list/static/js/2.5687de70.chunk.js.LICENSE.txt",
-    "static/media/close.dfafe742.svg": "/contact-list/static/media/close.dfafe742.svg",
-    "static/media/pencil.dcb4afb4.svg": "/contact-list/static/media/pencil.dcb4afb4.svg",
-    "static/media/phone.830947c0.svg": "/contact-list/static/media/phone.830947c0.svg"
+    "main.css": "/contact-list/build/static/css/main.4a504b19.chunk.css",
+    "main.js": "/contact-list/build/static/js/main.8555546f.chunk.js",
+    "main.js.map": "/contact-list/build/static/js/main.8555546f.chunk.js.map",
+    "runtime-main.js": "/contact-list/build/static/js/runtime-main.b49e902a.js",
+    "runtime-main.js.map": "/contact-list/build/static/js/runtime-main.b49e902a.js.map",
+    "static/js/2.5687de70.chunk.js": "/contact-list/build/static/js/2.5687de70.chunk.js",
+    "static/js/2.5687de70.chunk.js.map": "/contact-list/build/static/js/2.5687de70.chunk.js.map",
+    "index.html": "/contact-list/build/index.html",
+    "static/css/main.4a504b19.chunk.css.map": "/contact-list/build/static/css/main.4a504b19.chunk.css.map",
+    "static/js/2.5687de70.chunk.js.LICENSE.txt": "/contact-list/build/static/js/2.5687de70.chunk.js.LICENSE.txt",
+    "static/media/close.dfafe742.svg": "/contact-list/build/static/media/close.dfafe742.svg",
+    "static/media/pencil.dcb4afb4.svg": "/contact-list/build/static/media/pencil.dcb4afb4.svg",
+    "static/media/phone.830947c0.svg": "/contact-list/build/static/media/phone.830947c0.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1df016b3.js",
+    "static/js/runtime-main.b49e902a.js",
     "static/js/2.5687de70.chunk.js",
     "static/css/main.4a504b19.chunk.css",
     "static/js/main.8555546f.chunk.js"
