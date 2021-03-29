@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "//vladimyrovych.github.io/static/css/main.4a504b19.chunk.css",
-    "main.js": "//vladimyrovych.github.io/static/js/main.8555546f.chunk.js",
-    "main.js.map": "//vladimyrovych.github.io/static/js/main.8555546f.chunk.js.map",
-    "runtime-main.js": "//vladimyrovych.github.io/static/js/runtime-main.5931933a.js",
-    "runtime-main.js.map": "//vladimyrovych.github.io/static/js/runtime-main.5931933a.js.map",
-    "static/js/2.5687de70.chunk.js": "//vladimyrovych.github.io/static/js/2.5687de70.chunk.js",
-    "static/js/2.5687de70.chunk.js.map": "//vladimyrovych.github.io/static/js/2.5687de70.chunk.js.map",
-    "index.html": "//vladimyrovych.github.io/index.html",
-    "static/css/main.4a504b19.chunk.css.map": "//vladimyrovych.github.io/static/css/main.4a504b19.chunk.css.map",
-    "static/js/2.5687de70.chunk.js.LICENSE.txt": "//vladimyrovych.github.io/static/js/2.5687de70.chunk.js.LICENSE.txt",
-    "static/media/close.dfafe742.svg": "//vladimyrovych.github.io/static/media/close.dfafe742.svg",
-    "static/media/pencil.dcb4afb4.svg": "//vladimyrovych.github.io/static/media/pencil.dcb4afb4.svg",
-    "static/media/phone.830947c0.svg": "//vladimyrovych.github.io/static/media/phone.830947c0.svg"
+    "main.css": "//vladimyrovych.github.io/contact-list/static/css/main.4a504b19.chunk.css",
+    "main.js": "//vladimyrovych.github.io/contact-list/static/js/main.8555546f.chunk.js",
+    "main.js.map": "//vladimyrovych.github.io/contact-list/static/js/main.8555546f.chunk.js.map",
+    "runtime-main.js": "//vladimyrovych.github.io/contact-list/static/js/runtime-main.c908278b.js",
+    "runtime-main.js.map": "//vladimyrovych.github.io/contact-list/static/js/runtime-main.c908278b.js.map",
+    "static/js/2.5687de70.chunk.js": "//vladimyrovych.github.io/contact-list/static/js/2.5687de70.chunk.js",
+    "static/js/2.5687de70.chunk.js.map": "//vladimyrovych.github.io/contact-list/static/js/2.5687de70.chunk.js.map",
+    "index.html": "//vladimyrovych.github.io/contact-list/index.html",
+    "static/css/main.4a504b19.chunk.css.map": "//vladimyrovych.github.io/contact-list/static/css/main.4a504b19.chunk.css.map",
+    "static/js/2.5687de70.chunk.js.LICENSE.txt": "//vladimyrovych.github.io/contact-list/static/js/2.5687de70.chunk.js.LICENSE.txt",
+    "static/media/close.dfafe742.svg": "//vladimyrovych.github.io/contact-list/static/media/close.dfafe742.svg",
+    "static/media/pencil.dcb4afb4.svg": "//vladimyrovych.github.io/contact-list/static/media/pencil.dcb4afb4.svg",
+    "static/media/phone.830947c0.svg": "//vladimyrovych.github.io/contact-list/static/media/phone.830947c0.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5931933a.js",
+    "static/js/runtime-main.c908278b.js",
     "static/js/2.5687de70.chunk.js",
     "static/css/main.4a504b19.chunk.css",
     "static/js/main.8555546f.chunk.js"
